@@ -1,4 +1,24 @@
-### Hi there 👋
+## Salut 👋
+
+## :eyeglasses: A propos de moi
+
+:mortar_board: Etudiant ingénieur en informatique  
+:computer: Programmeur amateur passionné  
+:video_game: Joueur du dimanche (parfois de la semaine)
+
+## :book: Ce que j'apprend en ce moment
+
+- [ ] Serverless computing
+- [ ] C# pour Unity
+- [ ] Next.js framework
+- [ ] React native   
+
+## :crystal_ball: Mes projets du moment
+
+:small_blue_diamond: Mon site web  
+:small_blue_diamond: Legacy (RPG) sur Unity  
+:small_blue_diamond: Application mobile
+
 
 <!--
 **vykio/vykio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
