@@ -8,6 +8,7 @@
 
 ## :book: Ce que j'apprend en ce moment
 
+- [ ] NodeJS
 - [ ] Serverless computing
 - [ ] C# pour Unity
 - [ ] Next.js framework
