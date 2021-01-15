@@ -16,10 +16,8 @@
 
 ## :crystal_ball: Mes projets du moment
 
-:small_blue_diamond: Mon site web  
-:small_blue_diamond: Legacy (RPG) sur Unity  
-:small_blue_diamond: Site web (entrainement NodeJS)  
-:small_blue_diamond: Application mobile
+:small_blue_diamond: Call Of Duty : Cold War Tracker  
+:small_blue_diamond: Application de To-Do list sur Android et iOS  
 
 [![Vykio's github stats](https://github-readme-stats.vercel.app/api?username=vykio)](https://github.com/vykio)
 
