@@ -3,14 +3,15 @@
 ## :eyeglasses: A propos de moi
 
 :mortar_board: Etudiant ingénieur en informatique  
+:keyboard: Développeur Full Stack - Symfony / React  
 :computer: Programmeur amateur passionné  
 :video_game: Joueur du dimanche (parfois de la semaine)
 
 ## :book: Ce que j'apprend en ce moment
 
-- [ ] NodeJS
-- [ ] Serverless computing
-- [ ] React native   
+- [ ] Symfony
+- [ ] ReactJS
+- [ ] Cypress   
 <!--- [ ] C# pour Unity-->
 <!--- [ ] Next.js framework-->
 
