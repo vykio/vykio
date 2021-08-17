@@ -3,7 +3,7 @@
 ## :eyeglasses: A propos de moi
 
 :mortar_board: Etudiant ingénieur en informatique  
-:keyboard: Développeur Full Stack - Symfony / React  
+:keyboard: Développeur Full Stack en apprentissage - Symfony / React  
 :computer: Programmeur amateur passionné  
 :video_game: Joueur du dimanche (parfois de la semaine)
 
