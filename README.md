@@ -18,9 +18,9 @@
 
 ## :crystal_ball: Mes projets du moment
 
-:small_blue_diamond: Mon portfolio  
+:small_blue_diamond: Mon portfolio / Blog  
 :small_blue_diamond: [BOT](https://top.gg/bot/832535979868684318/invite/) discord  
-:small_blue_diamond: Application de To-Do list sur Android et iOS
+:small_blue_diamond: Application web de gestion de tâches
 
 ##
 
