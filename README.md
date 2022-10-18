@@ -2,8 +2,7 @@
 
 ## :eyeglasses: A propos de moi
 
-:mortar_board: Etudiant ingénieur en informatique en dernière année  
-:keyboard: Développeur Full Stack en contrat pro  
+:keyboard: Ingénieur Full Stack  
 :computer: Programmeur amateur passionné  
 :video_game: Joueur du dimanche (parfois de la semaine)
 
