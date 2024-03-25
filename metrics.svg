@@ -243,20 +243,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 484kb of code in 784 edited files across 215 commits over last 12 days</small>
+                <small>estimation from 486kb of code in 782 edited files across 215 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.172280705947" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="198.172280705947" y="0" width="170.59063915209884" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="368.76291985804585" y="0" width="43.16845702541552" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="411.93137688346144" y="0" width="34.13626641494103" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.06764329840246" y="0" width="6.169867007611514" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.237510306014" y="0" width="5.210720644290169" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="457.4482309503041" y="0" width="2.1244130052934076" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.5726439555975" y="0" width="0.4273560444024902" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.27237758789195" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="198.27237758789195" y="0" width="170.58881546503602" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="368.86119305292794" y="0" width="43.04590435372564" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="411.9070974066536" y="0" width="34.153508653952485" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.06060606060606" y="0" width="6.172983409397257" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.2335894700033" y="0" width="5.213352580943073" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="457.4469420509464" y="0" width="2.1254860469773185" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.5724280979237" y="0" width="0.42757190207629103" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -268,7 +268,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>43.08%</div>
+                                <div>43.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -279,7 +279,7 @@
                                 Dart
                             </div>
                             <small>
-                                <div>9.38%</div>
+                                <div>9.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1877,7 +1877,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.64m out of 85.2m repositories</span>
+                                    <span class="gh">ranked 2.64m out of 89.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
